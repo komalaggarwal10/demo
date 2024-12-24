@@ -1,0 +1,5 @@
+git clone "repo url"
+git add .
+git commit -m "message"
+git config --list
+git status
